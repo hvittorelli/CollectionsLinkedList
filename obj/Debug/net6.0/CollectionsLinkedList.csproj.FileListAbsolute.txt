@@ -1,0 +1,15 @@
+C:\Users\missh\source\repos\CIT195\CollectionsLinkedList\CollectionsLinkedList\bin\Debug\net6.0\CollectionsLinkedList.exe
+C:\Users\missh\source\repos\CIT195\CollectionsLinkedList\CollectionsLinkedList\bin\Debug\net6.0\CollectionsLinkedList.deps.json
+C:\Users\missh\source\repos\CIT195\CollectionsLinkedList\CollectionsLinkedList\bin\Debug\net6.0\CollectionsLinkedList.runtimeconfig.json
+C:\Users\missh\source\repos\CIT195\CollectionsLinkedList\CollectionsLinkedList\bin\Debug\net6.0\CollectionsLinkedList.dll
+C:\Users\missh\source\repos\CIT195\CollectionsLinkedList\CollectionsLinkedList\bin\Debug\net6.0\CollectionsLinkedList.pdb
+C:\Users\missh\source\repos\CIT195\CollectionsLinkedList\CollectionsLinkedList\obj\Debug\net6.0\CollectionsLinkedList.csproj.AssemblyReference.cache
+C:\Users\missh\source\repos\CIT195\CollectionsLinkedList\CollectionsLinkedList\obj\Debug\net6.0\CollectionsLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\missh\source\repos\CIT195\CollectionsLinkedList\CollectionsLinkedList\obj\Debug\net6.0\CollectionsLinkedList.AssemblyInfoInputs.cache
+C:\Users\missh\source\repos\CIT195\CollectionsLinkedList\CollectionsLinkedList\obj\Debug\net6.0\CollectionsLinkedList.AssemblyInfo.cs
+C:\Users\missh\source\repos\CIT195\CollectionsLinkedList\CollectionsLinkedList\obj\Debug\net6.0\CollectionsLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\missh\source\repos\CIT195\CollectionsLinkedList\CollectionsLinkedList\obj\Debug\net6.0\CollectionsLinkedList.dll
+C:\Users\missh\source\repos\CIT195\CollectionsLinkedList\CollectionsLinkedList\obj\Debug\net6.0\refint\CollectionsLinkedList.dll
+C:\Users\missh\source\repos\CIT195\CollectionsLinkedList\CollectionsLinkedList\obj\Debug\net6.0\CollectionsLinkedList.pdb
+C:\Users\missh\source\repos\CIT195\CollectionsLinkedList\CollectionsLinkedList\obj\Debug\net6.0\CollectionsLinkedList.genruntimeconfig.cache
+C:\Users\missh\source\repos\CIT195\CollectionsLinkedList\CollectionsLinkedList\obj\Debug\net6.0\ref\CollectionsLinkedList.dll
